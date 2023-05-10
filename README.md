@@ -4,8 +4,9 @@
 
 This project is a server-side weather dashboard that utilizes the OpenWeather API to retrieve weather data for cities that are searched for by the user. In addition, the dashboard uses local storage to store any cities that have been previously searched for, allowing the user to quickly access them in the future.
 
-Link to website 
+Link to deployed site: https://athenabw.github.io/fictional-telegram/
 
+![Alt text](assets/Screenshot%202023-05-09%20211734.png)
 
 ## Installation
 
