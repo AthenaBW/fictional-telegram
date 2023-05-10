@@ -107,7 +107,7 @@ function addToList(place) {
 
 
 function previousCity() {
-     // Remove all items from the list
+    // Remove all items from the list
     $("ul").empty();
     // Get the list of previously searched cities from localStorage
     var cityS = JSON.parse(localStorage.getItem("cityname"));
